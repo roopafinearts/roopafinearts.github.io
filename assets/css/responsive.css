@@ -517,7 +517,7 @@
 }
 
 @media (max-width: 768px) {
-
+  .navbar-brand img{height: auto;}
   .sigma_subheader > .container-fluid,
   .sigma_shapes.irregular .irregular-3,
   .sigma_img-custom::before,
