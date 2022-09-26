@@ -10019,3 +10019,15 @@ small {
 ul.sigma_sm.square {
   display: none;
 }
+.homepage .sigma_box {
+  padding: 22px 0px;
+  text-align: left;
+}
+.homepage h6 {
+  font-size: 16px;
+  margin-top: 0px !important;
+}
+.homepage h6 a{
+  display: block;
+  padding-left: 20px;
+}
