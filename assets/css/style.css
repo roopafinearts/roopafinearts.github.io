@@ -10031,3 +10031,6 @@ ul.sigma_sm.square {
   display: block;
   padding-left: 20px;
 }
+.section.section-padding.homepage {
+  padding: 80px 0px 80px;
+}
