@@ -10020,7 +10020,7 @@ ul.sigma_sm.square {
   display: none;
 }
 .homepage .sigma_box {
-  padding: 22px 0px;
+  padding: 0px 0px;
   text-align: left;
   text-align: center;
   background: #872f31;
@@ -10031,6 +10031,7 @@ ul.sigma_sm.square {
 }
 .homepage h6 a {
   display: block;
+  padding: 22px 0px;
   color: #fff;
 }
 .section.section-padding.homepage {
